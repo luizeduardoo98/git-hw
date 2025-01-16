@@ -1,0 +1,6 @@
+Name: Luiz Marques
+Age:26
+Favorite Color: Blue
+Dream job: Front-end developer
+Current City: Vancouver
+favorite food: sushi
