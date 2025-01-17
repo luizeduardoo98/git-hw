@@ -6,3 +6,7 @@ Current City: Vancouver
 favorite food: sushi
 Favorite movie: Breaking bad
 Favorite music: Too sweet
+Skills:
+1- Strong attetion to details
+2- time management
+3- interpersonal skills
