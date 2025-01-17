@@ -4,4 +4,4 @@ Technologies: React, Node.js, MongoDB.
 
 Project 2: Personal Portfolio
 Description: A personal website to showcase my projects and skills.
-Technologies: HTML, CSS, JavaScript, GitHub Pages.
+Technologies: HTML, CSS, JavaScript, GitHub pages.
