@@ -6,3 +6,6 @@ Current City: Vancouver
 favorite food: sushi
 Favorite movie: Breaking bad
 Favorite music: Too sweet
+Languages: 
+1- English 
+2- Portuguese
