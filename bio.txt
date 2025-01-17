@@ -1,0 +1,16 @@
+Name: Luiz Marques
+Age:26
+Favorite Color: Blue
+Dream job: Front-end developer
+Current City: Vancouver
+favorite food: sushi
+Favorite movie: Breaking bad
+Favorite music: Too sweet
+Languages: 
+1- English 
+2- Portuguese
+Skills:
+1- Strong attetion to details
+2- time management
+3- interpersonal skills
+
